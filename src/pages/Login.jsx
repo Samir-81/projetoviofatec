@@ -149,7 +149,7 @@ function Login() {
               backgroundColor: "green",
             }}
           >
-            <Link to="/cadastro">Cadastro</Link>
+            <Link to="/cadastro">Cadastrar</Link>
           </Button>
         </Box>
       </Box>
